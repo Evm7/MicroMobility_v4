@@ -14,9 +14,9 @@ THIS BRANCH HAS BEEN DEVELOPED BY THE USER [ESTEVE VALLS MASCARO](https://github
 - [x] Integrate traffic light color detection
 - [x] Enable the detection of whole directory
 - [x] Enable the detection for the android app 
-- [ ] Creating proximity message alert of objects
-- [ ] Creating "possible collision" alert for objects
-- [ ] Creating Diagram Map of distances in real time
+- [x] Creating proximity message alert of objects
+- [x] Creating "possible collision" alert for objects
+- [x] Creating Diagram Map of distances in real time
 
 ## Goal:
 
